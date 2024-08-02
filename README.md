@@ -34,6 +34,7 @@
 | [WAS Node Suite Colab](https://colab.research.google.com/github/WASasquatch/comfyui-colab-was-node-suite/blob/main/ComfyUI_%2B_WAS_Node_Suite.ipynb) | A colab for ComfyUI that will install WAS Node Suite | **Colab** |
 | [Apapach](https://codeberg.org/tekakutli/apapach) | An effort to use Comfy as a Diffusers alternative (python control of the graph), and an Emacs-UI built on top of that.  | **API** |
 | [YOY dropshipping](https://github.com/Continue7777/comfyui-yoy) | Comfyui plugins which can generate real product mockup and find the real supplier to produce! | **Custom Nodes** |
+| [Auto_Crop_By_NPS](https://github.com/WX-NPS1598/ComfyUI-auto_crop_by_NPS) | A very useful automatic cropping tool! It can realize cropping, expansion and rotation functions in the form of a slider!| **Custom Nodes** |
 
 ## Other Links
 
